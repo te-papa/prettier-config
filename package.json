@@ -1,0 +1,9 @@
+{
+  "name": "prettier-config",
+  "version": "0.0.1",
+  "description": "TePapa React projects prettier-config",
+  "main": "prettier-config.json",
+  "repository": "git@github.com:tepapa/prettier-config.git",
+  "author": "Daniel Nash <daniel.nash@tepapa.govt.nz>",
+  "license": "Unlicensed"
+}
