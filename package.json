@@ -1,9 +1,15 @@
 {
   "name": "prettier-config",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "TePapa React projects prettier-config",
   "main": "prettier-config.json",
   "repository": "git@github.com:tepapa/prettier-config.git",
   "author": "Daniel Nash <daniel.nash@tepapa.govt.nz>",
-  "license": "Unlicensed"
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "cp node_modules/init-config/.editorconfig ."
+  },
+  "dependencies": {
+    "init-config": "git+ssh://git@github.com/te-papa/init-config.git"
+  }
 }
