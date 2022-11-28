@@ -10,6 +10,6 @@
     "build": "cp node_modules/init-config/.editorconfig ."
   },
   "dependencies": {
-    "init-config": "git+ssh://git@github.com/te-papa/init-config.git"
+    "init-config": "https://github.com/te-papa/init-config.git"
   }
 }
